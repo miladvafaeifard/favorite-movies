@@ -17,4 +17,4 @@ https://facebook.github.io/react-native/docs/getting-started
 
 ## Without opening Android IDE, can be used in command line:
 
-emulator -avd "<android-name>" -no-snapshot-load
+emulator -avd \<android-name> -no-snapshot-load
