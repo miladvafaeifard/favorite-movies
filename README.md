@@ -1,11 +1,11 @@
-# Favorite movies
+# My Favorite Movies
 
 ![alt text][logo]
 
 [logo]: https://github.com/miladvafaeifard/favorite-movies/blob/master/assets/FAVORITE-MOVIES.png "Favorite Movie"
 
 <!-- [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2" -->
-## First of all, Read the docomentation for quick setup:
+## First of all, Read the documentation for quick setup:
 
 https://facebook.github.io/react-native/docs/getting-started
 
